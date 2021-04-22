@@ -1,0 +1,5 @@
+{
+	"desc": "集成极光推送",
+	"requireFormatName": "eeuiJpush",
+	"requireName": "eeui/jpush"
+}
